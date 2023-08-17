@@ -146,6 +146,12 @@ body {
 
   .about__text {
     transform: translate(0px, 50%);
+    text-align: center;
+  }
+
+  .ul_margin {
+    list-style: none;
+    margin-left: -40px;
   }
 
   .photo {
@@ -215,6 +221,14 @@ body {
 
 .about__text p {
   margin-top: 0;
+}
+
+.ul_margin {
+  margin-top: 0;
+}
+
+.li_margin {
+  margin-bottom: 10px;
 }
 
 .about__link {
